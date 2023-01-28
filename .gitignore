@@ -1,6 +1,7 @@
 burrow-src
 .*.swp
 !config
+cloudbuild.yaml
 dist
 log
 .idea

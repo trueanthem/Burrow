@@ -1,0 +1,10 @@
+## Directories
+.git/
+config/
+
+## Files
+.dockerignore
+.git*
+Dockerfile*
+*.md
+*.yml
